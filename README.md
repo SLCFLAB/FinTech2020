@@ -1,2 +1,2 @@
 
-다음시간. LeNet, Alex, VGG, ResNet, GoogLeNet 의 구조 설명 (pretrained)
+3/2. LeNet, Alex, VGG, ResNet, GoogLeNet 의 구조 설명 (pretrained)
